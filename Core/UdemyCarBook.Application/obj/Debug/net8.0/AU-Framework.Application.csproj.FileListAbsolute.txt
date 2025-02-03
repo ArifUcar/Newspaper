@@ -1,0 +1,15 @@
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\bin\Debug\net8.0\AU-Framework.Application.deps.json
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\bin\Debug\net8.0\AU-Framework.Application.dll
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\bin\Debug\net8.0\AU-Framework.Application.pdb
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\AU-Framework.Application.csproj.AssemblyReference.cache
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\AU-Framework.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\AU-Framework.Application.AssemblyInfoInputs.cache
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\AU-Framework.Application.AssemblyInfo.cs
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\AU-Framework.Application.csproj.CoreCompileInputs.cache
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\AU-Frame.8A1B1159.Up2Date
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\AU-Framework.Application.dll
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\refint\AU-Framework.Application.dll
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\AU-Framework.Application.pdb
+C:\Users\lhost\Desktop\Car_Book-news\Core\UdemyCarBook.Application\obj\Debug\net8.0\ref\AU-Framework.Application.dll

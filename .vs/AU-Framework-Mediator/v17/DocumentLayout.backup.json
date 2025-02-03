@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B40173-55A3-4E49-8B5A-A9493E4CE609}|Core\\UdemyCarBook.Application\\AU-Framework.Application.csproj|c:\\users\\lhost\\desktop\\car_book-news\\core\\udemycarbook.application\\features\\mediator\\commands\\categorycommands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B40173-55A3-4E49-8B5A-A9493E4CE609}|Core\\UdemyCarBook.Application\\AU-Framework.Application.csproj|solutionrelative:core\\udemycarbook.application\\features\\mediator\\commands\\categorycommands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B40173-55A3-4E49-8B5A-A9493E4CE609}|Core\\UdemyCarBook.Application\\AU-Framework.Application.csproj|c:\\users\\lhost\\desktop\\car_book-news\\core\\udemycarbook.application\\features\\mediator\\commands\\authcommands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B40173-55A3-4E49-8B5A-A9493E4CE609}|Core\\UdemyCarBook.Application\\AU-Framework.Application.csproj|solutionrelative:core\\udemycarbook.application\\features\\mediator\\commands\\authcommands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Commands\\CategoryCommands\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Features\\Mediator\\Commands\\CategoryCommands\\CreateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Commands\\CategoryCommands\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Features\\Mediator\\Commands\\CategoryCommands\\CreateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:15:05.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Commands\\AuthCommands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Features\\Mediator\\Commands\\AuthCommands\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Commands\\AuthCommands\\LoginCommand.cs",
+              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Features\\Mediator\\Commands\\AuthCommands\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:14:51.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

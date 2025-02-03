@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AU-Framework.WebApi.props" />
+</Project>

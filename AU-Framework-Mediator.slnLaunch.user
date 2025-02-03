@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Presentation\\UdemyCarBook.WebApi\\AU-Framework.WebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\003b40d3-ccaa-4e42-a622-4f9b7449f448.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\003b40d3-ccaa-4e42-a622-4f9b7449f448.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\24969c9d-75e4-473c-84e0-978da63cfe64.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\24969c9d-75e4-473c-84e0-978da63cfe64.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\32de9ace-cd3c-4825-8796-fb4c4c875cb5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\32de9ace-cd3c-4825-8796-fb4c4c875cb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\3aedee0f-0dbc-418d-94d0-52d0ba0991b7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\3aedee0f-0dbc-418d-94d0-52d0ba0991b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\425a05d4-8405-4e74-9e8d-2752f65e9e51.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\425a05d4-8405-4e74-9e8d-2752f65e9e51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\7fc31054-84da-4668-86b2-f52b5f476a90.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\7fc31054-84da-4668-86b2-f52b5f476a90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\8121549a-6809-42a4-a311-13e40c4b4fd6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\8121549a-6809-42a4-a311-13e40c4b4fd6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\9df04fed-19e9-4f81-96d6-8046348bba02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\9df04fed-19e9-4f81-96d6-8046348bba02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\a4624c90-d1a3-40a8-8cc6-f591790e4284.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\a4624c90-d1a3-40a8-8cc6-f591790e4284.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\aabb57d3-2abe-4d98-b62b-3973f9c63e69.jpg",
+      "PackagePath": "staticwebassets\\uploads\\news\\aabb57d3-2abe-4d98-b62b-3973f9c63e69.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AU-Framework.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AU-Framework.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AU-Framework.WebApi.props",
+      "PackagePath": "build\\AU-Framework.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AU-Framework.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\AU-Framework.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AU-Framework.WebApi.props",
+      "PackagePath": "buildTransitive\\AU-Framework.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

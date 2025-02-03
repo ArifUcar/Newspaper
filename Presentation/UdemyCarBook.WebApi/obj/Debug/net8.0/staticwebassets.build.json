@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "lrdBKlMN+N6O0oyx/E02ZXe+iW2Lp9KMywI99l+aDvE=",
+  "Source": "AU-Framework.WebApi",
+  "BasePath": "_content/AU-Framework.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AU-Framework.WebApi\\wwwroot",
+      "Source": "AU-Framework.WebApi",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\003b40d3-ccaa-4e42-a622-4f9b7449f448.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/003b40d3-ccaa-4e42-a622-4f9b7449f448#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "po31k05tyl",
+      "Integrity": "6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\003b40d3-ccaa-4e42-a622-4f9b7449f448.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\24969c9d-75e4-473c-84e0-978da63cfe64.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/24969c9d-75e4-473c-84e0-978da63cfe64#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "po31k05tyl",
+      "Integrity": "6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\24969c9d-75e4-473c-84e0-978da63cfe64.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\32de9ace-cd3c-4825-8796-fb4c4c875cb5.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/32de9ace-cd3c-4825-8796-fb4c4c875cb5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "po31k05tyl",
+      "Integrity": "6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\32de9ace-cd3c-4825-8796-fb4c4c875cb5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\3aedee0f-0dbc-418d-94d0-52d0ba0991b7.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/3aedee0f-0dbc-418d-94d0-52d0ba0991b7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "po31k05tyl",
+      "Integrity": "6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\3aedee0f-0dbc-418d-94d0-52d0ba0991b7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\425a05d4-8405-4e74-9e8d-2752f65e9e51.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/425a05d4-8405-4e74-9e8d-2752f65e9e51#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "po31k05tyl",
+      "Integrity": "6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\425a05d4-8405-4e74-9e8d-2752f65e9e51.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\7fc31054-84da-4668-86b2-f52b5f476a90.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/7fc31054-84da-4668-86b2-f52b5f476a90#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5w5yq79umm",
+      "Integrity": "q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\7fc31054-84da-4668-86b2-f52b5f476a90.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\8121549a-6809-42a4-a311-13e40c4b4fd6.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/8121549a-6809-42a4-a311-13e40c4b4fd6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "po31k05tyl",
+      "Integrity": "6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\8121549a-6809-42a4-a311-13e40c4b4fd6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\9df04fed-19e9-4f81-96d6-8046348bba02.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/9df04fed-19e9-4f81-96d6-8046348bba02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5w5yq79umm",
+      "Integrity": "q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\9df04fed-19e9-4f81-96d6-8046348bba02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\a4624c90-d1a3-40a8-8cc6-f591790e4284.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/a4624c90-d1a3-40a8-8cc6-f591790e4284#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "po31k05tyl",
+      "Integrity": "6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\a4624c90-d1a3-40a8-8cc6-f591790e4284.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\aabb57d3-2abe-4d98-b62b-3973f9c63e69.jpg",
+      "SourceId": "AU-Framework.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\",
+      "BasePath": "_content/AU-Framework.WebApi",
+      "RelativePath": "uploads/news/aabb57d3-2abe-4d98-b62b-3973f9c63e69#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "po31k05tyl",
+      "Integrity": "6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\news\\aabb57d3-2abe-4d98-b62b-3973f9c63e69.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/news/003b40d3-ccaa-4e42-a622-4f9b7449f448.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\003b40d3-ccaa-4e42-a622-4f9b7449f448.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/003b40d3-ccaa-4e42-a622-4f9b7449f448.po31k05tyl.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\003b40d3-ccaa-4e42-a622-4f9b7449f448.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "po31k05tyl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/003b40d3-ccaa-4e42-a622-4f9b7449f448.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/24969c9d-75e4-473c-84e0-978da63cfe64.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\24969c9d-75e4-473c-84e0-978da63cfe64.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/24969c9d-75e4-473c-84e0-978da63cfe64.po31k05tyl.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\24969c9d-75e4-473c-84e0-978da63cfe64.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "po31k05tyl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/24969c9d-75e4-473c-84e0-978da63cfe64.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/32de9ace-cd3c-4825-8796-fb4c4c875cb5.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\32de9ace-cd3c-4825-8796-fb4c4c875cb5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/32de9ace-cd3c-4825-8796-fb4c4c875cb5.po31k05tyl.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\32de9ace-cd3c-4825-8796-fb4c4c875cb5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "po31k05tyl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/32de9ace-cd3c-4825-8796-fb4c4c875cb5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/3aedee0f-0dbc-418d-94d0-52d0ba0991b7.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\3aedee0f-0dbc-418d-94d0-52d0ba0991b7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/3aedee0f-0dbc-418d-94d0-52d0ba0991b7.po31k05tyl.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\3aedee0f-0dbc-418d-94d0-52d0ba0991b7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "po31k05tyl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/3aedee0f-0dbc-418d-94d0-52d0ba0991b7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/425a05d4-8405-4e74-9e8d-2752f65e9e51.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\425a05d4-8405-4e74-9e8d-2752f65e9e51.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/425a05d4-8405-4e74-9e8d-2752f65e9e51.po31k05tyl.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\425a05d4-8405-4e74-9e8d-2752f65e9e51.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "po31k05tyl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/425a05d4-8405-4e74-9e8d-2752f65e9e51.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/7fc31054-84da-4668-86b2-f52b5f476a90.5w5yq79umm.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\7fc31054-84da-4668-86b2-f52b5f476a90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5w5yq79umm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/7fc31054-84da-4668-86b2-f52b5f476a90.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/7fc31054-84da-4668-86b2-f52b5f476a90.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\7fc31054-84da-4668-86b2-f52b5f476a90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/8121549a-6809-42a4-a311-13e40c4b4fd6.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\8121549a-6809-42a4-a311-13e40c4b4fd6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/8121549a-6809-42a4-a311-13e40c4b4fd6.po31k05tyl.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\8121549a-6809-42a4-a311-13e40c4b4fd6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "po31k05tyl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/8121549a-6809-42a4-a311-13e40c4b4fd6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/9df04fed-19e9-4f81-96d6-8046348bba02.5w5yq79umm.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\9df04fed-19e9-4f81-96d6-8046348bba02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5w5yq79umm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/9df04fed-19e9-4f81-96d6-8046348bba02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/9df04fed-19e9-4f81-96d6-8046348bba02.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\9df04fed-19e9-4f81-96d6-8046348bba02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q8fxvIN0dxXQE+yWHOxNE/xTI2zU6OL2fl7acgKynCI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/a4624c90-d1a3-40a8-8cc6-f591790e4284.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\a4624c90-d1a3-40a8-8cc6-f591790e4284.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/a4624c90-d1a3-40a8-8cc6-f591790e4284.po31k05tyl.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\a4624c90-d1a3-40a8-8cc6-f591790e4284.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "po31k05tyl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/a4624c90-d1a3-40a8-8cc6-f591790e4284.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/aabb57d3-2abe-4d98-b62b-3973f9c63e69.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\aabb57d3-2abe-4d98-b62b-3973f9c63e69.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/news/aabb57d3-2abe-4d98-b62b-3973f9c63e69.po31k05tyl.jpg",
+      "AssetFile": "C:\\Users\\lhost\\Desktop\\Car_Book-news\\Presentation\\UdemyCarBook.WebApi\\wwwroot\\uploads\\news\\aabb57d3-2abe-4d98-b62b-3973f9c63e69.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "po31k05tyl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/news/aabb57d3-2abe-4d98-b62b-3973f9c63e69.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6exPFtRW91kJXfmJcKAqkIlbcbpmB/Ub5qk1yTSwfzU="
+        }
+      ]
+    }
+  ]
+}
